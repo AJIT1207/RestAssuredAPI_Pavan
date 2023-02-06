@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5857" started-at="2022-06-27T12:22:13 IST" finished-at="2022-06-27T12:22:19 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5857" started-at="2022-06-27T12:22:13 IST" finished-at="2022-06-27T12:22:19 IST">
+      <class name="MyFirstRestAPIGetHarmony">
+        <test-method status="PASS" signature="getUserDetails()[pri:0, instance:MyFirstRestAPIGetHarmony@1a8a8f7c]" name="getUserDetails" duration-ms="5793" started-at="2022-06-27T12:22:13 IST" finished-at="2022-06-27T12:22:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUserDetails -->
+      </class> <!-- MyFirstRestAPIGetHarmony -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
